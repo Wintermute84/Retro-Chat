@@ -162,7 +162,7 @@ export default function Settings(props){      ///way too big of a comp
           A lot of the assets were taken from preservation sites such as <a target="_blank" className="text-[#653379] underline" href="https://winclassic.github.io/resources">this.</a>
         </p>
         <p className="block mb-1">  
-          <a target="_blank" href="https://github.com/Wintermute84/Retro-Chat/blob/main/src/userSettings.jsx" className="text-[#653379] underline">Link to the github repo</a>
+          <a target="_blank" href="https://github.com/Wintermute84/Retro-Chat" className="text-[#653379] underline">Link to the github repo</a>
         </p>
       </div>
     )
