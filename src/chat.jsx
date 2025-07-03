@@ -18,7 +18,7 @@ var sound = new Howl({
   const [messages, setMessages] = useState([]);   
   const [showSettings, setShowSettings] = useState(false)
   const [soundefx,setSoundefx] = useState(false)
-  console.log(soundefx)
+
   const isObjectEmpty = (objectName) => {
       return (
         objectName &&
